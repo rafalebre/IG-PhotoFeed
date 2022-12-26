@@ -1,0 +1,61 @@
+.photofeed{
+background-color: white;
+width: 450px;
+height: 25px;
+margin: auto;
+font-size: 70%;
+font-family: Arial, Helvetica, sans-serif;
+padding-bottom: 1%;
+}
+.photofeedbody{
+    background-color: rgb(242, 238, 238);
+    margin: auto;
+}
+.myfirstphoto{
+    background: white;
+    padding: 0%;
+    width: 450px;
+    height: 100%;
+    margin: auto;
+    border-top: 40px solid rgb(242, 238, 238);
+}
+.upperleft{
+    float: left;
+    margin-top: -20px;
+    position: absolute;
+    padding-top: 2px;
+    padding-left: 10px;
+}
+.upperright{
+    float: right;
+    margin: 1%;
+    padding-right: 3px;
+}
+img{
+    width: 100%;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    text-align: justify;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 3%;
+}
+.somecutething{
+    background: white;
+    width: 450px;
+    height: 100%;
+    margin: auto;
+    border-top: 40px solid rgb(242, 238, 238);
+}
+.food{
+    background: white;
+    padding: 0%;
+    width: 450px;
+    height: 375px;
+    margin: auto;
+    border-top: 50px solid rgb(242, 238, 238);
+    border-bottom: 60px solid rgb(242, 238, 238);
+}
+
